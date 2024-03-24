@@ -1,0 +1,4 @@
+{
+    "ko": "이명박",
+    "en": "Lee Myung Bak"
+}
